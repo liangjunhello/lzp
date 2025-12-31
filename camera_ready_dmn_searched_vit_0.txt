@@ -1,0 +1,60 @@
+processing the datasetFlower102 
+	processing the datasetFlower102 
+	processing the datasetPets 
+	processing the datasetPets 
+	processing the datasetPets 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetFlower102 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the dataseteurosat 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetFlower102 
+	processing the datasetFlower102 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetFlower102 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetFlower102 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetPets 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetDTD 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetCaltech101 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetCaltech101 
+	lr: 0.0001, epoch:20, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetUCF101 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetUCF101 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the dataseteurosat 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the dataseteurosat 
+	lr: 0.001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	processing the datasetAircraft 
+	lr: 0.0001, epoch:100, num_important_channel0, lambda_ape: 0.3, best acc0.00 
+	
